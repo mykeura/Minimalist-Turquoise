@@ -1,0 +1,29 @@
+{
+	"manifest_version": 3,
+	"version": "2.3",
+	"name": "Minimalist Turquoise",
+	"description": "Experience serene and fresh browsing in Google Chrome with Minimalist Turquoise theme.",
+	"author": "Miguel Euraque",
+	"theme": {
+	"colors": {
+		"frame": [162, 217, 206],
+		"frame_inactive": [162, 217, 206],
+		"frame_incognito": [32, 33, 36],
+		"frame_incognito_inactive": [60, 64, 67],
+		"background_tab": [162, 217, 206],
+		"background_tab_inactive": [162, 217, 206],
+		"background_tab_incognito": [32, 33, 36],
+		"background_tab_incognito_inactive": [60, 64, 67],
+		"bookmark_text": [58, 62, 65],
+		"tab_background_text": [60, 64, 67],
+		"tab_background_text_inactive": [102, 106, 109],
+		"tab_background_text_incognito": [189, 193, 198],
+		"tab_background_text_incognito_inactive": [167, 171, 174],
+		"tab_text": [60, 64, 67],
+		"toolbar": [221, 242, 237],
+		"toolbar_button_icon": [0, 0, 0],
+		"omnibox_text": [32, 33, 36],
+		"omnibox_background": [195, 213, 209]
+		}
+	}
+}
