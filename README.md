@@ -39,7 +39,7 @@ Distribuido bajo Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
 **Miguel Euraque**
 
-Soy un creativo multifacético con amplia experiencia en proyectos innovadores que fusionan nuevas tecnologías y educación. Especializado en creación de contenido digital, SEO y redacción creativa.
+SEO Técnico y Desarrollador Web. Creo experiencias digitales innovadoras, optimizando contenido y diseño para potenciar tu presencia en línea.
 
 ## 🔗 Más Temas
 
