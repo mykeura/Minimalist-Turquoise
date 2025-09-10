@@ -1,126 +1,34 @@
 {
   "manifest_version": 3,
-  "version": "2.4",
+  "version": "2.5",
   "name": "Minimalist Turquoise",
   "description": "Minimalist Turquoise: By Miguel Euraque",
   "author": "Miguel Euraque",
   "theme": {
     "colors": {
-      "frame": [
-        162,
-        217,
-        206
-      ],
-      "frame_inactive": [
-        162,
-        217,
-        206
-      ],
-      "frame_incognito": [
-        32,
-        33,
-        36
-      ],
-      "frame_incognito_inactive": [
-        60,
-        64,
-        67
-      ],
-      "background_tab": [
-        162,
-        217,
-        206
-      ],
-      "background_tab_inactive": [
-        162,
-        217,
-        206
-      ],
-      "background_tab_incognito": [
-        32,
-        33,
-        36
-      ],
-      "background_tab_incognito_inactive": [
-        60,
-        64,
-        67
-      ],
-      "bookmark_text": [
-        58,
-        62,
-        65
-      ],
-      "tab_background_text": [
-        60,
-        64,
-        67
-      ],
-      "tab_background_text_inactive": [
-        102,
-        106,
-        109
-      ],
-      "tab_background_text_incognito": [
-        189,
-        193,
-        198
-      ],
-      "tab_background_text_incognito_inactive": [
-        167,
-        171,
-        174
-      ],
-      "tab_text": [
-        60,
-        64,
-        67
-      ],
-      "toolbar": [
-        221,
-        242,
-        237
-      ],
-      "toolbar_button_icon": [
-        0,
-        0,
-        0
-      ],
-      "omnibox_text": [
-        32,
-        33,
-        36
-      ],
-      "omnibox_background": [
-        195,
-        213,
-        209
-      ],
-      "ntp_background": [
-        221,
-        242,
-        237
-      ],
-      "ntp_text": [
-        60,
-        64,
-        67
-      ],
-      "ntp_link": [
-        162,
-        217,
-        206
-      ],
-      "ntp_section": [
-        255,
-        255,
-        255
-      ],
-      "button_background": [
-        162,
-        217,
-        206
-      ]
+      "frame": [162, 217, 206],
+      "frame_inactive": [162, 217, 206],
+      "frame_incognito": [32, 33, 36],
+      "frame_incognito_inactive": [60, 64, 67],
+      "background_tab": [162, 217, 206],
+      "background_tab_inactive": [162, 217, 206],
+      "background_tab_incognito": [32, 33, 36],
+      "background_tab_incognito_inactive": [60, 64, 67],
+      "bookmark_text": [58, 62, 65],
+      "tab_background_text": [60, 64, 67],
+      "tab_background_text_inactive": [102, 106, 109],
+      "tab_background_text_incognito": [189, 193, 198],
+      "tab_background_text_incognito_inactive": [167, 171, 174],
+      "tab_text": [60, 64, 67],
+      "toolbar": [221, 242, 237],
+      "toolbar_button_icon": [0, 0, 0],
+      "omnibox_text": [32, 33, 36],
+      "omnibox_background": [195, 213, 209],
+      "ntp_background": [221, 242, 237],
+      "ntp_text": [60, 64, 67],
+      "ntp_link": [162, 217, 206],
+      "ntp_section": [255, 255, 255],
+      "button_background": [162, 217, 206]
     }
   }
 }
