@@ -1,6 +1,6 @@
 # Minimalist Turquoise 🌊
 
-The official Minimalist Turquoise theme for Chromium-based browsers. A minimalist theme with a color palette inspired by turquoise, designed for a serene and elegant browsing experience.
+The official Minimalist Turquoise theme for Chromium-based browsers. This design pairs a clean, distraction-free interface with a color scheme that reflects the essence of Turquoise, creating a serene and focused browsing experience.
 
 ![Minimalist Turquoise Theme Preview](images/preview.png)
 
