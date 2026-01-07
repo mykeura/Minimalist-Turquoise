@@ -29,12 +29,10 @@ These conditions are based on the author's right to protect the integrity of the
 
 ## 📦 Installation
 
-### Direct Download (Recommended)
+### Chrome Web Store (Recommended)
 
-1. Download the `.crx` file from the [Official Website](https://vidaextrema.org/minimalist/).
-2. Open `chrome://extensions` in your browser.
-3. Enable **Developer mode** (toggle in the top right).
-4. Drag and drop the downloaded `.crx` file onto the extensions page.
+1. Visit the [Minimalist Turquoise](https://chromewebstore.google.com/detail/minimalist-turquoise/kagkhcomjcjckhhpfbakdfikimoegjoi) theme page on the Chrome Web Store.
+2. Click the **"Add to Chrome"** button to install the theme directly from the store.
 
 ### From Source
 
@@ -46,22 +44,9 @@ These conditions are based on the author's right to protect the integrity of the
 
 Previous private versions of this code used a modified MIT license. As of this first public release, the project is now licensed under the **GNU General Public License v3.0**. This change strengthens the commitment to open collaboration and protects the project from misappropriation.
 
-## 👤 Author
-
-**Miguel Euraque**
-
-_Teacher, Technical SEO and Web Developer._
-
-I transform ideas into robust and visible digital experiences. My work focuses on the intersection between technology and education, with the goal of democratizing knowledge and making the web a more inclusive space.
-
-I am passionate about creating open projects that promote collaboration, learning, and accessibility. I believe that code and the web are powerful tools for expanding horizons, connecting people, and building a more equitable digital future.
-
-- **Website:** [Vida Extrema](https://vidaextrema.org/)
-- **GitHub:** [mykeura](https://github.com/mykeura)
-
 ## 🔗 More Themes
 
-Explore more themes from the Official Minimalist Collection on [Minimalist themes](https://vidaextrema.org/minimalist/).
+If you want to see all my themes, you can view them on [Vida Extrema](https://vidaextrema.org/recursos/).
 
 ---
 
