@@ -4,15 +4,15 @@ The official Minimalist Turquoise theme for Chromium-based browsers. This design
 
 ![Minimalist Turquoise Theme Preview](images/preview.png)
 
-![Official Source](https://img.shields.io/badge/Source-Official%20Repository-brightgreen.svg?style=flat-square) ![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)
+![Official Source](https://img.shields.io/badge/Source-Official%20Repository-brightgreen.svg?style=flat-square) ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
 
 ---
 
 ## 🛡️ Official Derivatives Policy
 
-This software is released under the **GNU General Public License v3.0 (GPLv3)**.
+This software is released under the **MIT License**.
 
-In addition to the terms of the GPLv3:
+In addition to the terms of the MIT License:
 
 1. **Author Attribution:** You must give appropriate credit to the original author, **Miguel Euraque**, provide a link to this official repository, and indicate if changes were made.
 2. **Naming Derivative Works:** To prevent user confusion and protect the project's integrity, you may **not** name your derivative work using the "Minimalist" brand name or any other name that implies it is the original work, an official version, or endorsed by the original author. For example, you may **not** name your derivative work "Minimalist Turquoise Pro" or "Official Minimalist Theme".
@@ -42,7 +42,7 @@ These conditions are based on the author's right to protect the integrity of the
 
 ## 📜 License Change Notice
 
-Previous private versions of this code used a modified MIT license. As of this first public release, the project is now licensed under the **GNU General Public License v3.0**. This change strengthens the commitment to open collaboration and protects the project from misappropriation.
+Previous versions of this code were licensed under the GNU General Public License v3.0 (GPLv3). As of this release, the project is licensed under the **MIT License**. This change simplifies reuse and collaboration while the derivatives policy above continues to protect the project against misrepresentation.
 
 ## 🔗 More Themes
 
