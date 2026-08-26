@@ -1,4 +1,4 @@
-# Minimalist Turquoise 🌊
+# Minimalist Turquoise
 
 A minimal Chrome theme in a bright, watery palette, by Miguel Euraque.
 
